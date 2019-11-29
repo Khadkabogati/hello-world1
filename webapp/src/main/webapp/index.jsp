@@ -1,2 +1,2 @@
 <h1> Hello, Welcome to Simple Devops Project !! By Khadak </h1>
-<h2> Deploying on a container </h2>
+<h2> Deploying on a container using ansible</h2>
